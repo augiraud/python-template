@@ -50,3 +50,7 @@ Then every push to `main` publishes `ghcr.io/<owner>/<repository>:latest`, and e
 - `.github/dependabot.yml`: weekly dependency updates
 - `Dockerfile`: Docker image
 - `.githooks/pre-commit`: checks before each commit
+
+## License
+
+MIT, see [LICENSE](LICENSE).

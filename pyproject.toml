@@ -2,6 +2,7 @@
 name = "python-template"
 version = "0.1.0"
 description = "Python project template (the FizzBuzz code is a placeholder: replace it with yours)"
+license = "MIT"
 requires-python = ">=3.14"
 dependencies = []
 
