@@ -13,12 +13,12 @@ python-template = "python_template.__main__:main"
 dev = [
     "pytest>=9.2.0",
     "pytest-cov>=7.1.0",
-    "ruff>=0.17.3",
-    "ty>=0.0.95",
+    "ruff>=0.17.4",
+    "ty>=0.0.98",
 ]
 
 [build-system]
-requires = ["uv_build>=0.13.6,<0.14"]
+requires = ["uv_build>=0.13.7,<0.14"]
 build-backend = "uv_build"
 
 [tool.uv]
